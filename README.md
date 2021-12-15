@@ -1,17 +1,17 @@
 # FISH GAME
 
-# Problem Statement
-      How to create Fish Game by just using simple HTML, CSS   and JavaScript.
+## Problem Statement
+How to create Fish Game by just using simple HTML, CSS   and JavaScript.
 
-# Requirements
+## Requirements
 -	Should have basic knowledge about HTML and CSS.
 -	Should have good knowledge about JavaScript.
 
-# Technologies Used 
+## Technologies Used 
 -	Web technology (HTML, CSS and JavaScript)
 -	Cloud Computing (AWS and Apache webserver for hosting the site)
 
-# Project Description
+## Project Description
 We have created a very nice and pretty game, which is very smooth to play. It has some characters which has their own role in this game.
 
 o	Red Fish
@@ -40,7 +40,7 @@ o	Bubbles
  ![Bubbles](https://github.com/kmsulekha/Fish_Game/blob/main/img_for_readme/bubbles.png?raw=true)
 
 
-# Scope (Features and Functions of the Project)
+## Scope (Features and Functions of the Project)
 -	This is very simple Web UI project which is purely made with just using simple HTML, CSS and JavaScript. Our Project is hosted over AWS Cloud and running inside Apache Webserver.
 -	Background is animated and floating. It gives real and amazing feels like real scenario.
 -	You can control Red Fish movement just by doing movement of your mouse curser.
@@ -49,12 +49,14 @@ o	Bubbles
 -	Once you bubbles popped it created amazing popped like sound.
 
 
-# Challenges Faced
+## Challenges Faced
 -	We have added floating background in the game which was little bit challenging part.
 -	Bubbles are coming dynamically from anywhere without a fix position which was bit complex.
 -	When we move fish on to the bubble it should be burst.
 -	Movement of red fish was little bit harder because it’s face should be turned around the direction of pointer of mouse.
 
 
-# Conclusion 
+## Conclusion 
+```hcl
 This is always good if you create anything by just learning small-small things. It looks that its very harder to create Game just by using HTML, CSS and JavaScript because nowadays guys are using Framework instead of using just simple web. This Hackathon make me understand about how to utilize our time in best possible way and come out to be batter result in very short duration.
+```

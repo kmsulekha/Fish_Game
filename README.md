@@ -57,6 +57,6 @@ o	Bubbles
 
 
 ## Conclusion 
-```hcl
+
+
 This is always good if you create anything by just learning small-small things. It looks that its very harder to create Game just by using HTML, CSS and JavaScript because nowadays guys are using Framework instead of using just simple web. This Hackathon make me understand about how to utilize our time in best possible way and come out to be batter result in very short duration.
-```

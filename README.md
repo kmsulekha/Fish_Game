@@ -17,7 +17,7 @@ We have created a very nice and pretty game, which is very smooth to play. It ha
 o	Red Fish
 -	This is our very first character also the main character of this game, which will play Vittel role in this game.
 
- 
+ ![Red Fish](https://github.com/kmsulekha/Fish_Game/blob/main/img_for_readme/red_fish.png?raw=true)
 
 
 

@@ -26,7 +26,7 @@ o	Red Fish
 o	Yellow Fish
 -	This yellow fish is second character of this game which is going to create difficulties to reach out to the maximum score.
 
- 
+ ![Yellow Fish](https://github.com/kmsulekha/Fish_Game/blob/main/img_for_readme/yellow_fish.png?raw=true)
 
 -	Yellow fish is a animated character which will float right to left into the water.
 -	It has random initialization state which means no body can predict next time from where fish will come.
@@ -37,7 +37,7 @@ o	Bubbles
 -	These bubbles are very animated and dynamic. we cannot predict the initial state of these bubbles. 
 
 
- 
+ ![Bubbles](https://github.com/kmsulekha/Fish_Game/blob/main/img_for_readme/bubbles.png?raw=true)
 
 
 # Scope (Features and Functions of the Project)
